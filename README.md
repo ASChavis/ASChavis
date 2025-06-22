@@ -15,6 +15,8 @@ Mobile app performance optimization
 
 Cloud infrastructure & Backend Technologies
 
+AI integration techniques & Document parsing
+
 💻 Tech Stack:
 Frontend: React, React Native, Redux, Bootstrap, React Native Paper
 
