@@ -1,16 +1,33 @@
-## Hi there 👋
+👋 Hi, I'm Alisha Chavis!
+I'm a career-changer and certified Journeyworker (Build Carolina), now working as a full-stack and mobile-first developer. I’m the solo founder of Critter Central LLC.
 
-<!--
-**ASChavis/ASChavis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 What I’m currently building:
+🐾 Critter Central: React Native app + Supabase backend + Firebase Hosting
 
-Here are some ideas to get you started:
+Mobile-first, secure, and scalable — launched as LLC in 2025, marketing launch coming this fall
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently learning:
+Advanced React Patterns
+
+TypeScript best practices
+
+Mobile app performance optimization
+
+Cloud infrastructure & Backend Technologies
+
+💻 Tech Stack:
+Frontend: React, React Native, Redux, Bootstrap, React Native Paper
+
+Backend: Node.js, REST APIs, Supabase, Firebase
+
+Database: PostgreSQL
+
+Infra/DevOps: Terraform (intro), GitHub Actions, Serverless architecture
+
+Tools: Expo, Git, GitHub, Bitbucket, Postman, VS Code
+
+📫 How to reach me:
+Email
+
+LinkedIn
+
